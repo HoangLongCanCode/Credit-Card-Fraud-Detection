@@ -94,7 +94,7 @@ pip install pandas numpy scikit-learn imbalanced-learn xgboost lightgbm matplotl
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
+git clone https://github.com/HoangLongCanCode/Credit-Card-Fraud-Detection.git
 cd credit-card-fraud-detection
 ```
 
@@ -187,5 +187,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - Built as part of learning Decision Trees and ensemble methods
 
 ---
+
 
 **Note**: This project is for educational purposes. In production systems, additional security measures, monitoring, and compliance considerations would be necessary.
