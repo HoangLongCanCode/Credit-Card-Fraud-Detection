@@ -21,6 +21,8 @@ The models are trained on the [Credit Card Fraud Detection Dataset](https://www.
 
 ## 📈 Results
 
+![Model Comparison](output.png)
+
 ### Model Performance Comparison
 
 | Model | AUC Score | Key Observations |
@@ -187,6 +189,5 @@ This project is open source and available under the [MIT License](LICENSE).
 - Built as part of learning Decision Trees and ensemble methods
 
 ---
-
 
 **Note**: This project is for educational purposes. In production systems, additional security measures, monitoring, and compliance considerations would be necessary.
